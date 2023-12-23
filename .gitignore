@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Plugin Specific
+Plugins/SKGShooterFramework
+
 # Compiled Object files
 *.slo
 *.lo
