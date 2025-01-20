@@ -2,7 +2,7 @@
 .vs/
 
 # Plugin Specific
-Plugins/SKGShooterFramework
+Plugins/
 
 # Compiled Object files
 *.slo
